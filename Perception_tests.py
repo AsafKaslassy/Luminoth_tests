@@ -13,7 +13,7 @@ from luminoth import Detector, read_image, vis_objects
 
 
 __author__ = "Asaf Kaslassy"
-__copyright__ = "Copyright 2019, GM Perception Test plan exam"
+__copyright__ = "Copyright 2019"
 __license__ = "GPL"
 __version__ = "V_0.0.1+pep_8"
 __maintainer__ = "Asaf Kaslassy"
